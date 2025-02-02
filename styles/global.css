@@ -47,7 +47,7 @@ span {
   font: var(--font-span);
 }
 
-h1 {
+h1, h1 span {
   font-size: var(--text-xl);
   font: var(--font-h1);
 }
