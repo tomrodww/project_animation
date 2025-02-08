@@ -16,7 +16,7 @@ header.top {
   }
   
   img[src*="assets/icons/logo.svg"]:hover {
-    transform: rotate(30deg);
+    transform: rotate(90deg);
   }
 
   img[src*="assets/icons/shopping-bag.svg"]:hover {
